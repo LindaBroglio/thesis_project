@@ -1,0 +1,17 @@
+sample number	family	group	status	status_pro	age	gender
+SRR17276323	n	control	healthy	healthy_control	50	F
+SRR17276324	m	control	healthy	healthy_control	63	M
+SRR17276325	l	twins6	healthy	healthy_twin	40	M
+SRR17276326	l	twins6	affected	affected_twin	40	M
+SRR17276327	i	control	healthy	healthy_control	64	F
+SRR17276328	h	control	healthy	healthy_control	49	F
+SRR17276329	f	control	healthy	healthy_control	59	F
+SRR17276330	e	control	healthy	healthy_control	44	M
+SRR17276331	d	twins5	affected	affected_twin	45	F
+SRR17276332	d	twins5	healthy	healthy_twin	45	F
+SRR17276333	c	twins4	healthy	healthy_twin	69	F
+SRR17276334	c	twins4	affected	affected_twin	69	F
+SRR17276335	b	twins3	healthy	healthy_twin	66	M
+SRR17276336	b	twins3	affected	affected_twin	66	M
+SRR17276337	a	twins1	affected	affected_twin	47	F
+SRR17276338	a	twins1	healthy	healthy_twin	47	F
